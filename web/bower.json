@@ -1,0 +1,10 @@
+{
+    "name": "WebServicesProject",
+    "version": "1.0.0",
+    "dependencies": {
+        "angular": "*",
+        "angular-ui-router": "*",
+        "angular-material": "*",
+        "angular-messages": "*"
+    }
+}
